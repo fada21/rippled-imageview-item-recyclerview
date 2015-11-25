@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RippledImageViewItemRecyclerView</string>
+    <string name="lorem_ipsum">Lorem ipsum</string>
+    <string name="card">Card</string>
+</resources>
